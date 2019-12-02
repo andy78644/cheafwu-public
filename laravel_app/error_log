@@ -1,0 +1,2 @@
+[02-Sep-2019 11:41:52 Asia/Taipei] PHP Fatal error:  Cannot declare class CreateUsersRolesTable, because the name is already in use in /home/cheafwuc/laravel_app/database/migrations/2019_07_18_150336_create_users_roles_table.php on line 33
+[02-Sep-2019 11:48:03 Asia/Taipei] PHP Fatal error:  Cannot declare class CreateUsersRolesTable, because the name is already in use in /home/cheafwuc/laravel_app/database/migrations/2019_07_18_150336_create_users_roles_table.php on line 33
